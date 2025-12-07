@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/two-distinct-meanings-of-the-word-token-in-modern-computing/"}
+{"dg-publish":true,"dg-permalink":"token-meanings-1","permalink":"/token-meanings-1/"}
 ---
 
 
