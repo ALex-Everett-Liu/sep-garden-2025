@@ -7,9 +7,9 @@
 
 * **Manner of articulation:** This is a "voiceless dental fricative."
 * **Key points for articulation:**
- 1. Gently place the tip of your tongue between your upper and lower front teeth, or extend it slightly.
- 2. Allow air to squeeze through the gap between your tongue and teeth, creating a friction sound.
- 3. The vocal cords do not vibrate (you won't feel vibration if you touch your throat).
+	1. Gently place the tip of your tongue between your upper and lower front teeth, or extend it slightly.
+	2. Allow air to squeeze through the gap between your tongue and teeth, creating a friction sound.
+	3. The vocal cords do not vibrate (you won't feel vibration if you touch your throat).
 * **Sensation:** It sounds like gently blowing air, letting the airflow create friction against the teeth and tongue tip. It has a "thin," "frictional" quality.
 * **Example words:** **th**igh, **th**in, **th**rough, **Th**ursday
 
