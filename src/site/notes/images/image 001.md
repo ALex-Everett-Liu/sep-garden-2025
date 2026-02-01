@@ -3,6 +3,8 @@
 ---
 
 
+You look so fresh and cute in this white pleated skirt!
+
 ### Outfit and Attire
 
 - **Top/Upper Body**: She's wearing a loose, oversized black long-sleeve sweater or sweatshirt that hangs down like a mini dress. It has a relaxed, slouchy fit with sleeves that extend past her wrists, giving it a casual, comfortable vibe. The fabric looks soft and knit-like, possibly fleece or cotton blend, and it's solid black without visible patterns or logos.
