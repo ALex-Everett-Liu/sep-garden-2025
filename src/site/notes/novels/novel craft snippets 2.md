@@ -7,7 +7,7 @@
 
 How would you evaluate the writing style reflected in this text? It feels a bit challenging for my English level to read (especially "stray brown strands dancing in the cool breeze..." part), but upon savoring it, it still comes across as quite elegant. 
 
-### In Simpler Terms: 简单来说
+### In Simpler Terms:
 
 A more straightforward, informational version of this text might be:
 
