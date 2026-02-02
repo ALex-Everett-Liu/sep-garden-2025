@@ -44,7 +44,7 @@ You are becoming your own [[system administrator\|system administrator]]. Hereâ€
   * **Database:** (e.g., [[MySQL\|MySQL]] or MariaDB) to store all your pages, users, and history.
   * **PHP:** The programming language MediaWiki is built on.
   * **MediaWiki itself:** Download, configure, and run the [[installation wizard\|installation wizard]].
-1. **Ongoing Maintenance:**
+3. **Ongoing Maintenance:**
   * **Security:** Applying operating system updates, software patches, configuring firewalls, and setting up SSL certificates (HTTPS).
   * **Backups:** Regularly backing up your database and wiki files to another location.
   * **Updates:** Upgrading MediaWiki to new versions for features and security.
