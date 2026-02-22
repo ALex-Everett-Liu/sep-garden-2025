@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/novels/novel-craft-snippets-1/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/novels/novel-craft-snippets-1/"}
 ---
 
 

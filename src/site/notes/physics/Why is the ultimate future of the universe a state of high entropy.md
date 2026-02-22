@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/physics/why-is-the-ultimate-future-of-the-universe-a-state-of-high-entropy/"}
+{"dg-publish":true,"permalink":"/physics/why-is-the-ultimate-future-of-the-universe-a-state-of-high-entropy/","tags":["gardenEntry"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 In a system without gravity, entropy measures the degree of disorder of [[microscopic state\|microscopic state]]s. For example:
 - A deck of cards [neatly arranged by suit and number]: a single [[macroscopic state\|macroscopic state]], few microscopic states → **low entropy**.
-- Shuffled into [[random order\|random order]]: macroscopically "disordered," but corresponds to an extremely large number of [microscopic arrangements] → **high entropy**.
+- Shuffled into [[random order\|random order]]: macroscopically "disordered," but corresponds to an extremely large number of [microscopic arrangements] → **high entropy**. ([[physics/why high entropy for a shuffled deck\|why high entropy for a shuffled deck]])
 - Gas filling a container: [[uniform distribution\|uniform distribution]] corresponds to the maximum number of microscopic states → **high entropy**; concentrated in one corner is very special → **low entropy**.
 
 The intuition here is: uniform, disordered states = high entropy.
